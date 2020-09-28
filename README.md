@@ -7,7 +7,9 @@ Transfers files and directorries from macOs to Android via adb over USB.
 
 ## Requirements
 Requres Android SDK Platform Tools. The adb executable must be on the $PATH.
+
 https://developer.android.com/studio/releases/platform-tools#downloads
+
 https://www.xda-developers.com/install-adb-windows-macos-linux/
 
 ## Examples
